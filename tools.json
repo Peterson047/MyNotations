@@ -1,0 +1,306 @@
+[
+    {
+        "titulo": "Streamlit",
+        "emoji": "📊",
+        "categoria": "Desenvolvimento",
+        "descricao": "Facilita a criação de aplicativos de dados e machine learning interativos em Python com uma interface simples e intuitiva.",
+        "url": "https://streamlit.io/",
+        "original_text": "streamlit"
+    },
+    {
+        "titulo": "Obsidian",
+        "emoji": "📝",
+        "categoria": "Produtividade",
+        "descricao": "Um aplicativo de anotações que usa um sistema de arquivos local para organizar informações e criar um grafo de conhecimento.",
+        "url": "https://obsidian.md/",
+        "original_text": "obsidian"
+    },
+    {
+        "titulo": "Notion",
+        "emoji": "📝",
+        "categoria": "Produtividade",
+        "descricao": "Plataforma de organização all-in-one para notas, tarefas, wikis e bancos de dados.",
+        "url": "https://www.notion.so/",
+        "original_text": "notion"
+    },
+    {
+        "titulo": "Chrome DevTools IA",
+        "emoji": "🤖",
+        "categoria": "Desenvolvimento",
+        "descricao": "Extensão do Chrome DevTools com recursos de inteligência artificial para facilitar o desenvolvimento web.",
+        "url": "",
+        "original_text": "chrome dev tools com ia integrada"
+    },
+    {
+        "titulo": "VMware Workstation",
+        "emoji": "💻",
+        "categoria": "Desenvolvimento",
+        "descricao": "Permite a criação e execução de máquinas virtuais em um computador host, facilitando o desenvolvimento, teste e implantação de software.",
+        "url": "https://www.vmware.com/products/workstation.html",
+        "original_text": "vmware workstation"
+    },
+    {
+        "titulo": "Audacity",
+        "emoji": "🎧",
+        "categoria": "Áudio",
+        "descricao": "Editor de áudio gratuito, de código aberto e multiplataforma para gravação e edição de som.",
+        "url": "https://www.audacityteam.org/",
+        "original_text": "audacity"
+    },
+    {
+        "titulo": "Gemini CLI",
+        "emoji": "🤖",
+        "categoria": "Desenvolvimento",
+        "descricao": "Interface de linha de comando para interagir com o modelo de linguagem grande Gemini do Google.",
+        "url": "",
+        "original_text": "gemini cli\n"
+    },
+    {
+        "titulo": "GitHub Desktop",
+        "emoji": "💻",
+        "categoria": "Desenvolvimento",
+        "descricao": "Cliente de desktop para o GitHub, facilitando a interação com repositórios Git.",
+        "url": "https://desktop.github.com/",
+        "original_text": "github desktop"
+    },
+    {
+        "titulo": "DataGrip",
+        "emoji": "📊",
+        "categoria": "Desenvolvimento",
+        "descricao": "Uma IDE da JetBrains para desenvolvedores de banco de dados, oferecendo suporte a uma variedade de sistemas de gerenciamento de banco de dados.",
+        "url": "https://www.jetbrains.com/datagrip/",
+        "original_text": "datagrip"
+    },
+    {
+        "titulo": "PyCharm",
+        "emoji": "🐍",
+        "categoria": "Desenvolvimento",
+        "descricao": "IDE (Integrated Development Environment) para desenvolvimento Python, oferecendo recursos avançados de edição de código, depuração e testes.",
+        "url": "https://www.jetbrains.com/pycharm/",
+        "original_text": "pycharm"
+    },
+    {
+        "titulo": "Excalidraw",
+        "emoji": "✍️",
+        "categoria": "Design",
+        "descricao": "Uma ferramenta de desenho colaborativo com foco em diagramas e wireframes, com um estilo de desenho à mão.",
+        "url": "https://excalidraw.com/",
+        "original_text": "excalidraw"
+    },
+    {
+        "titulo": "Mermaid",
+        "emoji": "🌊",
+        "categoria": "Desenvolvimento",
+        "descricao": "Cria diagramas e fluxogramas a partir de uma linguagem de marcação simples, facilitando a documentação e visualização de código.",
+        "url": "https://mermaid-js.github.io/mermaid/",
+        "original_text": "mermaid"
+    },
+    {
+        "titulo": "Negrok (Necessário mais contexto)",
+        "emoji": "❓",
+        "categoria": "Desconhecido",
+        "descricao": "Sem informação suficiente para descrever a função da ferramenta.  Necessário mais contexto sobre a ferramenta 'negrok'.",
+        "url": "",
+        "original_text": "negrok"
+    },
+    {
+        "titulo": "Gemini",
+        "emoji": "🤖",
+        "categoria": "IA",
+        "descricao": "Modelo de linguagem grande desenvolvido pelo Google, capaz de gerar texto, traduzir idiomas, escrever diferentes tipos de conteúdo criativo e responder suas perguntas de forma informativa.",
+        "url": "",
+        "original_text": "gemini"
+    },
+    {
+        "titulo": "Groq",
+        "emoji": "⚙️",
+        "categoria": "Desenvolvimento",
+        "descricao": "Desenvolvido pela Groq, é um processador de IA que utiliza uma arquitetura única para acelerar as cargas de trabalho de IA.",
+        "url": "https://groq.com/",
+        "original_text": "groq"
+    },
+    {
+        "titulo": "OpenAI",
+        "emoji": "🤖",
+        "categoria": "Desenvolvimento",
+        "descricao": "Plataforma de inteligência artificial que oferece acesso a modelos de linguagem, APIs e ferramentas para desenvolvimento de IA.",
+        "url": "https://openai.com/",
+        "original_text": "openai"
+    },
+    {
+        "titulo": "Pandas",
+        "emoji": "🐼",
+        "categoria": "Desenvolvimento",
+        "descricao": "Uma biblioteca Python para manipulação e análise de dados, fornecendo estruturas de dados flexíveis e ferramentas de alta performance.",
+        "url": "https://pandas.pydata.org/",
+        "original_text": "pandas\n"
+    },
+    {
+        "titulo": "Matplotlib",
+        "emoji": "📊",
+        "categoria": "Desenvolvimento",
+        "descricao": "Biblioteca Python para criar visualizações estáticas, animações e interfaces interativas em 2D.",
+        "url": "https://matplotlib.org/",
+        "original_text": "matplotlib"
+    },
+    {
+        "titulo": "Uvicorn",
+        "emoji": "🚀",
+        "categoria": "Desenvolvimento",
+        "descricao": "Servidor ASGI ultrarrápido para aplicações Python, ideal para frameworks como FastAPI.",
+        "url": "",
+        "original_text": "uvicorn"
+    },
+    {
+        "titulo": "Agno Framework",
+        "emoji": "⚙️",
+        "categoria": "Desenvolvimento",
+        "descricao": "É um framework JavaScript para desenvolvimento web, focado em simplicidade e performance.",
+        "url": "",
+        "original_text": "agno framework"
+    },
+    {
+        "titulo": "Django",
+        "emoji": "⚙️",
+        "categoria": "Desenvolvimento",
+        "descricao": "É um framework web Python de alto nível que promove o desenvolvimento rápido e limpo de aplicações web.",
+        "url": "https://www.djangoproject.com/",
+        "original_text": "django"
+    },
+    {
+        "titulo": "Nginx",
+        "emoji": "🌐",
+        "categoria": "Desenvolvimento",
+        "descricao": "Servidor web de alta performance e proxy reverso, conhecido por sua velocidade e confiabilidade.",
+        "url": "https://nginx.org/",
+        "original_text": "nginx"
+    },
+    {
+        "titulo": "Ragflow",
+        "emoji": "🤖",
+        "categoria": "Desenvolvimento",
+        "descricao": "Plataforma de desenvolvimento de IA que permite criar, treinar e implantar modelos de linguagem grandes.",
+        "url": "",
+        "original_text": "ragflow"
+    },
+    {
+        "titulo": "Make (Integromat)",
+        "emoji": "⚙️",
+        "categoria": "Automação",
+        "descricao": "Automatiza workflows conectando diferentes aplicativos e serviços online. Permite criar automações complexas sem codificação.",
+        "url": "https://www.make.com/",
+        "original_text": "make (integromat)"
+    },
+    {
+        "titulo": "n8n",
+        "emoji": "🤖",
+        "categoria": "Desenvolvimento",
+        "descricao": "Plataforma de automação de fluxo de trabalho de código aberto que permite conectar diferentes serviços e aplicativos para criar workflows personalizados.",
+        "url": "https://n8n.io/",
+        "original_text": "n8n"
+    },
+    {
+        "titulo": "Hugging Face",
+        "emoji": "🤖",
+        "categoria": "Desenvolvimento",
+        "descricao": "Plataforma para acessar e compartilhar modelos de aprendizado de máquina, datasets e ferramentas de desenvolvimento de IA.",
+        "url": "https://huggingface.co/",
+        "original_text": "huggingface"
+    },
+    {
+        "titulo": "Dosu",
+        "emoji": "🤖",
+        "categoria": "Desenvolvimento",
+        "descricao": "Plataforma de desenvolvimento de software que auxilia na criação e gerenciamento de projetos, oferecendo ferramentas e recursos para a colaboração em equipe.",
+        "url": "https://app.dosu.dev/",
+        "original_text": "https://app.dosu.dev/"
+    },
+    {
+        "titulo": "Gitee",
+        "emoji": "💻",
+        "categoria": "Desenvolvimento",
+        "descricao": "Plataforma de hospedagem de código-fonte similar ao GitHub, focada no mercado chinês.",
+        "url": "https://gitee.com/",
+        "original_text": "https://gitee.com/"
+    },
+    {
+        "titulo": "NotebookLM",
+        "emoji": "📝",
+        "categoria": "Produtividade",
+        "descricao": "NotebookLM é uma ferramenta online que permite criar e compartilhar notebooks interativos com código e texto.",
+        "url": "",
+        "original_text": "notebooklm"
+    },
+    {
+        "titulo": "Google AI Studio",
+        "emoji": "🤖",
+        "categoria": "Desenvolvimento",
+        "descricao": "Plataforma para desenvolvimento e implantação de modelos de aprendizado de máquina do Google.",
+        "url": "https://ai.google/products/ai-platform/",
+        "original_text": "google ai studio"
+    },
+    {
+        "titulo": "Perplexity AI",
+        "emoji": "🤔",
+        "categoria": "Pesquisa",
+        "descricao": "Um mecanismo de busca que fornece respostas concisas e completas a perguntas complexas, citando as fontes utilizadas.",
+        "url": "https://www.perplexity.ai/",
+        "original_text": "perplexity ai"
+    },
+    {
+        "titulo": "You.com",
+        "emoji": "🔎",
+        "categoria": "Pesquisa",
+        "descricao": "Um mecanismo de busca que oferece uma experiência personalizada e integrada com outras ferramentas.",
+        "url": "https://you.com/",
+        "original_text": "you.com"
+    },
+    {
+        "titulo": "Web Archive",
+        "emoji": "💾",
+        "categoria": "Pesquisa",
+        "descricao": "Arquiva e disponibiliza cópias de páginas da web ao longo do tempo, permitindo acesso a versões anteriores de sites.",
+        "url": "https://web.archive.org/",
+        "original_text": "webarchive.org"
+    },
+    {
+        "titulo": "File.Pizza",
+        "emoji": "🍕",
+        "categoria": "Armazenamento em Nuvem",
+        "descricao": "Serviço de armazenamento em nuvem que permite compartilhar arquivos grandes e facilmente.",
+        "url": "https://file.pizza/",
+        "original_text": "file.pizza"
+    },
+    {
+        "titulo": "remove.bg",
+        "emoji": "✂️",
+        "categoria": "Design",
+        "descricao": "Remove automaticamente o fundo de imagens, facilitando a edição e o uso de imagens com fundos transparentes.",
+        "url": "https://www.remove.bg/",
+        "original_text": "remove.bg"
+    },
+    {
+        "titulo": "DaVinci Resolve",
+        "emoji": "🎬",
+        "categoria": "Vídeo e Edição",
+        "descricao": "Software profissional de edição de vídeo, efeitos visuais, correção de cores e pós-produção.",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "original_text": "davinci resolve"
+    },
+    {
+        "titulo": "AnythingLLM",
+        "emoji": "🤖",
+        "categoria": "Desenvolvimento",
+        "descricao": "Uma ferramenta que permite acessar e utilizar diversos modelos de linguagem grande de forma unificada.",
+        "url": "",
+        "original_text": "anythingllm"
+    },
+    {
+        "titulo": "Open Web UI",
+        "emoji": "🤖",
+        "categoria": "Desenvolvimento",
+        "descricao": "Uma interface de usuário de código aberto para modelos de IA de geração de imagens, facilitando o acesso e a personalização.",
+        "url": "",
+        "original_text": "openwebui"
+    }
+]
